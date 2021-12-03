@@ -19,9 +19,9 @@ Additional description about the project and its features.
 
 👤 **Herbert**
 
-- GitHub: [Herbert](https://github.com/herokudev)
-- LinkedIn: [Herbert](https://www.linkedin.com/in/herbert-orellana)
-- Twitter: [v](https://twitter.com/HerbertOrellan4)
+- GitHub: [Profile link](https://github.com/herokudev)
+- LinkedIn: [Profile link](https://www.linkedin.com/in/herbert-orellana)
+- Twitter: [Profile link](https://twitter.com/HerbertOrellan4)
 
 ## Show your support
 
